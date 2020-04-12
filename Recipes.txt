@@ -5,4 +5,8 @@ Kheer
 pasta
 Chicken fry
 
+Beans
+pizza
+
+
 Thank you
